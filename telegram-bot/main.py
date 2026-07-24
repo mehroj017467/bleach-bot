@@ -29,35 +29,33 @@ if not BOT_TOKEN:
 # ---------------------------------------------------------------------------
 async def character_handler(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     """Har qanday /buyruq uchun ishlaydi; noma'lum buyruqlarni jim o'tkazadi."""
-    command = update.effective_message.text.split()[0].lstrip("/").split("@")[0].lower()
+    msg = update.effective_message
+    if not msg or not msg.text:
+        return
 
+    command = msg.text.split()[0].lstrip("/").split("@")[0].lower()
     character = CHARACTERS.get(command)
     if character is None:
-        # Noma'lum buyruq — hech narsa qilmaymiz
         return
 
     image = character.get("image", "")
     text = character.get("text", "")
 
-    if image.startswith("http"):
-        # URL orqali rasm
-        await update.effective_message.reply_photo(
-            photo=image,
-            caption=text,
-            parse_mode="Markdown",
-        )
-    elif image:
-        # Lokal fayl
-        local_path = os.path.join(BASE_DIR, image)
-        with open(local_path, "rb") as img_file:
-            await update.effective_message.reply_photo(
-                photo=img_file,
-                caption=text,
-                parse_mode="Markdown",
-            )
-    else:
-        # Faqat matn
-        await update.effective_message.reply_text(text, parse_mode="Markdown")
+    try:
+        if image.startswith("http"):
+            await msg.reply_photo(photo=image, caption=text, parse_mode="Markdown")
+        elif image:
+            local_path = os.path.join(BASE_DIR, image)
+            with open(local_path, "rb") as img_file:
+                await msg.reply_photo(photo=img_file, caption=text, parse_mode="Markdown")
+        else:
+            await msg.reply_text(text, parse_mode="Markdown")
+    except Exception:
+        logger.exception("Rasm yuborishda xato (%s), faqat matn yuborilmoqda", command)
+        try:
+            await msg.reply_text(text, parse_mode="Markdown")
+        except Exception:
+            logger.exception("Matn yuborishda ham xato (%s)", command)
 
 
 # ---------------------------------------------------------------------------
