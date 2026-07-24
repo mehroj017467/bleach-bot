@@ -15,6 +15,14 @@
     "image": "tosen.png",
     "text": "Build Boundrga qarab oʻzgarmaydi"
   },
+  "urahara": {
+    "image": "urahara.png",
+    "text": "Build Boundary ga qarab oʻzgarmaydi"
+  },
+  "soifon": {
+    "image": "soifon.png",
+    "text": "Boundary ga bogʻliq build oʻzgarishlari:\n\nBO charge rate 3-slot ishlatadi, B1-B5 esa atk% ishlatadi. B1-B6 stamp'lardan umuman charge rate (0%) kerak emas [ ixtiyoriy: 128 ucr ga ega boʻlish orqali tezroq rotatsiya ishlatishingiz mumkin], va qurol A1 darajasida 30% beradi. B6 Soifon uchun, agar B4 Mayuri bilan ishlatilsa, Soifon'ning 3-slot'i ailment dmg bonus % ga oʻzgarishi kerak, aks holda atk% ishlating. Qurol dupe'lari ham muhim ekanligini unutmang, ayniqsa crit rate statistikasini berish va 2-slot uchun crit dmg mainstat ishlatish imkoniyatini taʼminlash uchun."
+  },
   "zaraki": {
     "image": "zaraki.png",
     "text": "Boundary ga bogʻliq build oʻzgarishlari:\n\nZaraki Kenpachi B2 darajasida 30% crit rate oshirishga ega boʻladi (60% ailment bonus talab qiladi), va uning core stamp'i 20% beradi. Shu sababli, b2 darajasida CRIT DMG 2-slot mainstat ishlatishingiz kerak va qolgan 50% ni substatlar orqali olishga harakat qiling. Zaraki Kenpachi'ning ulti Mayuri va White Ichigo bilan toʻgʻri rotatsiyada tayyor boʻlishi uchun kamida 119% Ultimate charge rate statistikasiga muhtoj."
