@@ -1,4 +1,8 @@
 {
+  "toshiro": {
+    "image": "toshiro.png",
+    "text": "Boundary ga bogʻliq build oʻzgarishlari:\n\nB2 darajasida Toshiro 40% Crit Rate oladi (20% dan 2 marta yigʻiladi). Uning weapon stampi bergan 30% bilan birga, endi uning 2-slotida CRIT DMG CRIT RATEdan ustun boʻladi."
+  },
   "bichigo": {
     "image": "https://botapiproxy3.root.bab2695b6b97213806c9229b18895703.ru/piramisfile/ChatKeeperBot_-1002833137968/b88946da333b9c248914b5759295019c.jpg",
     "text": "Boundary Dependant Build oʻzgarishlari:\nBankai Ichigo B1 da 60% crit rate bonusini oladi (30% dan 2 marta toʻplanadi/staklanadi). Lekin, u baribir ortiqcha crit rateʼni 1:2 nisbatda konvertatsiya qilgani sababli, build oʻzgarmaydi."
