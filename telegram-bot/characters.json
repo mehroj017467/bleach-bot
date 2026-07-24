@@ -15,6 +15,14 @@
     "image": "tosen.png",
     "text": "Build Boundrga qarab oʻzgarmaydi"
   },
+  "zaraki": {
+    "image": "zaraki.png",
+    "text": "Boundary ga bogʻliq build oʻzgarishlari:\n\nZaraki Kenpachi B2 darajasida 30% crit rate oshirishga ega boʻladi (60% ailment bonus talab qiladi), va uning core stamp'i 20% beradi. Shu sababli, b2 darajasida CRIT DMG 2-slot mainstat ishlatishingiz kerak va qolgan 50% ni substatlar orqali olishga harakat qiling. Zaraki Kenpachi'ning ulti Mayuri va White Ichigo bilan toʻgʻri rotatsiyada tayyor boʻlishi uchun kamida 119% Ultimate charge rate statistikasiga muhtoj."
+  },
+  "mayuri": {
+    "image": "mayuri.png",
+    "text": "Boundary ga bogʻliq build oʻzgarishlari:\n\nB4 darajasida Mayuri oʻzining passivini maksimal darajaga yetkazish uchun 250% ultimate charge rate ni xohlaydi, bu esa 50% koʻproq ailment bonus taʼminlaydi."
+  },
   "nel": {
     "image": "nel.png",
     "text": "Boundary ga bogʻliq build oʻzgarishlari:\n\nB6 darajasida Nelliel ultimate charge rate % 3-slot bilan ancha yaxshi ishlaydi, va jami 148.5% ultimate charge rate ga erishish uchun substatlar kerak boʻladi. Bu (toʻgʻri rotatsiya oʻzgarishlari bilan birga) ajoyib zarar bonusini taʼminlaydi, chunki koʻproq ultimate ishlatish imkoniyati koʻproq zarar nuke'lariga olib keladi."
