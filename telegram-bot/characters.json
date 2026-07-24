@@ -1,0 +1,14 @@
+{
+  "ikaku": {
+    "image": "https://example.com/ikaku.jpg",
+    "text": "🗡️ *Ikaku — Build*\n\n• HP: 22K+\n• DEF: 1800+\n• Crit Rate: 60%+\n• Crit DMG: 120%+\n• EM: 150+\n\n📌 *Tavsif:* Ikaku — himoya va tanlama uchun mo'ljallangan kuchli personaj. Bufer sifatida jamoada muhim o'rin egallaydi."
+  },
+  "renji": {
+    "image": "https://example.com/renji.jpg",
+    "text": "⚔️ *Renji — Build*\n\n• ATK: 2200+\n• Crit Rate: 65%+\n• Crit DMG: 140%+\n• EM: 100+\n\n📌 *Tavsif:* Renji — hujum yo'nalishidagi DPS personaj. Yuqori zarar berish qobiliyatiga ega."
+  },
+  "byakuya": {
+    "image": "https://example.com/byakuya.jpg",
+    "text": "🌸 *Byakuya — Build*\n\n• ATK: 2500+\n• Crit Rate: 70%+\n• Crit DMG: 160%+\n• Speed: 135+\n\n📌 *Tavsif:* Byakuya — eng kuchli DPS personajlardan biri. Nozik va tez, lekin halokatli."
+  }
+}
