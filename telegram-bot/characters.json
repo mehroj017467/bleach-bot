@@ -1,4 +1,20 @@
 {
+  "ikaku": {
+    "image": "ikaku.png",
+    "text": "Build Boundrga qarab oʻzgarmaydi"
+  },
+  "yourichi": {
+    "image": "yourichi.png",
+    "text": "Build Boundrga qarab oʻzgarmaydi"
+  },
+  "gin": {
+    "image": "gin.png",
+    "text": "Build Boundrga qarab oʻzgarmaydi"
+  },
+  "tosen": {
+    "image": "tosen.png",
+    "text": "Build Boundrga qarab oʻzgarmaydi"
+  },
   "toshiro": {
     "image": "toshiro.png",
     "text": "Boundary ga bogʻliq build oʻzgarishlari:\n\nB2 darajasida Toshiro 40% Crit Rate oladi (20% dan 2 marta yigʻiladi). Uning weapon stampi bergan 30% bilan birga, endi uning 2-slotida CRIT DMG CRIT RATEdan ustun boʻladi."
