@@ -15,6 +15,14 @@
     "image": "tosen.png",
     "text": "Build Boundrga qarab oʻzgarmaydi"
   },
+  "nel": {
+    "image": "nel.png",
+    "text": "Boundary ga bogʻliq build oʻzgarishlari:\n\nB6 darajasida Nelliel ultimate charge rate % 3-slot bilan ancha yaxshi ishlaydi, va jami 148.5% ultimate charge rate ga erishish uchun substatlar kerak boʻladi. Bu (toʻgʻri rotatsiya oʻzgarishlari bilan birga) ajoyib zarar bonusini taʼminlaydi, chunki koʻproq ultimate ishlatish imkoniyati koʻproq zarar nuke'lariga olib keladi."
+  },
+  "aizen": {
+    "image": "aizen.png",
+    "text": "Boundary ga bogʻliq build oʻzgarishlari:\n\nB6 Boundry da Aizen jang maydoni koʻnikmalarining crit rate koʻrsatkichini ikki baravar oshiradi. Shu sababli, faqat bir nechta crit rate substatlari bilan CRIT DMG 2-slot afzal koʻriladi."
+  },
   "toshiro": {
     "image": "toshiro.png",
     "text": "Boundary ga bogʻliq build oʻzgarishlari:\n\nB2 darajasida Toshiro 40% Crit Rate oladi (20% dan 2 marta yigʻiladi). Uning weapon stampi bergan 30% bilan birga, endi uning 2-slotida CRIT DMG CRIT RATEdan ustun boʻladi."
