@@ -15,6 +15,18 @@
     "image": "tosen.png",
     "text": "Build Boundrga qarab oʻzgarmaydi"
   },
+  "szayelaporro": {
+    "image": "szayelaporro.png",
+    "text": "Boundary bogʻliq build oʻzgarishlari:\n5280 atk + 175 crit dmg + 109% ultimate charge rate (1 ucr roll). Aizen va Kisuke bilan juftlikda ishlatilganda, Kisuke'da ATK% bond'ni (SR bond) ishlating. Toshiro bilan juftlikda ishlatilganda, Toshiro'ga biroz ucr statlari kerak boʻladi, lekin Szayel core'ni maksimal duplikatlash bu muammoni hal qiladi."
+  },
+  "grimmjow": {
+    "image": "grimmjow.png",
+    "text": "Boundary bogʻliq build oʻzgarishlari:\nBuild dupelar bilan oʻzgarmaydi, lekin Grimmjow Resurreccion'ni toʻliq optimallashtirish uchun erishilishi kerak boʻlgan maʼlum statlar mavjud. Crit Rate: 100% (imkon qadar koʻproq). ATK%, Aliment DMG bonus% va Crit DMG% (imkon qadar koʻproq)."
+  },
+  "wichigo": {
+    "image": "wichigo.png",
+    "text": "Boundary bogʻliq build oʻzgarishlari:\nQaysi boundary tanlash kerak - Avval B2'ga borish yaxshi tanlov, chunki bu sizning slash dps'ingizga koʻproq buff beradi, chunki White asosan zarar berishdan koʻra jamoasiga buff berish haqida. Keyin A5'ga borib, uning crit rate statlarini va koʻproq dmg oling (ixtiyoriy: agar B4'ga borishni xohlasangiz va B2A5'ga bormasangiz, bu ham yaxshi, chunki u jamoa uchun koʻproq buff beradi). Men umuman B1'da toʻxtashni tavsiya qilmayman, yoki B2'ga boring yoki shunchaki B0'da qoling, agar sizda Bichigo boʻlsa, Kenny uchun chaqirmang, agar sizda Kenny boʻlsa, uning chegaralarini quvmang, men aytardimki, kelajakda ikkalasidan ham yaxshiroq boʻladigan slash dps uchun jade'laringizni saqlang va shuningdek kelajakdagi slash support uchun ham saqlang. White'ga toʻgʻri rotatsiya bilan ultimate'ini vaqtida olish uchun kamida 109% ultimate charge rate statlari [ultimate charge rate statlariga 1 roll] kerak."
+  },
   "urahara": {
     "image": "urahara.png",
     "text": "Build Boundary ga qarab oʻzgarmaydi"
