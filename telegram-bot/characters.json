@@ -15,6 +15,14 @@
     "image": "tosen.png",
     "text": "Build Boundrga qarab oʻzgarmaydi"
   },
+  "ulquiorra": {
+    "image": "ulquiorra.png",
+    "text": "Ulquiorra o'zining 1-passiv qobiliyatidan 25% Crit rate va Segunda Etapa holatida o'zining \"Core stamp\" dan qo'shimcha 15% oladi.\n\n(B0) A0 da : Toʻliq crit rate ehtimollikka erishish uchun jami 238% Ult charge talab etiladi.\n\n(B0) A5 da: Bu ko'rsatkich uchun 168.8% talab qilinadi.\n\nBundan tashqari, B4-6 da 3 ta ATK% asosiy mainstats foydalanishingiz kerak. (3 ta stampdaham) Atk ko'rsatkichini taxminan 5500 ga yetkazishni maqsad qiling va qolgan qiymatlarni crit qo'shimcha xususiyatlar orqali to'plang."
+  },
+  "tichigo": {
+    "image": "tichigo.png",
+    "text": "Boundary kopiyadagi Build oʻzgarishlar:\n\nB0 Ichigo Passiv 1 (18%) dan 38% Crit Rate oladi Va A1 weapon dan (20%).\nJami: 76% crit rate B0/W1\n\nB1 Ichigo Passiv 1 dan 56% Crit rate oladi va B1 (36%) va Weapon A1 (20%) [Eslatma: the Weapon Crit Rate ekranda sanaladi nechi kopiya boʻlishidan qatʼiy nazar, Shunga qaramay siz b0 uchun ekranda 82% Crit rate boʻlishi kerak, B1 da sizga 64% Crit rate ekranda kerak boʻladi. Bundan tashqari, 215% Ailment dmg kerak boʻladi Passiv 3 ni toʻliq ishlata olishi uchun, bu yerda Ailment dmg ni olish uchun koʻp joylar bor: [40% aliment dmg buff Nelliel ni stamp set Passive dan, Mayuri B4 Ailment DMG buff beradi va boshqa kelajakdagi persanajlardan], LEKIN eng muhimi Maksimum Ailment DMG olish kerak. Umumiy DMG ni oshirish uchun]\nJami: 112% B1/W1\n\nB6A5, siz 1 va 2-stamplar uchun Boshda Atk% ishlatish kerak BREACH Ailment DMG va B6. 24% Crit rate ni Substats lardan (stampni pastdagi statlardan) olishga harakat qiling, 100% crit rate olish uchun, Chunki Weapon A5 da 40% Crit rate(ekranda paydo boʻladi) va 36% B1 dan beriladi"
+  },
   "szayelaporro": {
     "image": "szayelaporro.png",
     "text": "Boundary bogʻliq build oʻzgarishlari:\n5280 atk + 175 crit dmg + 109% ultimate charge rate (1 ucr roll). Aizen va Kisuke bilan juftlikda ishlatilganda, Kisuke'da ATK% bond'ni (SR bond) ishlating. Toshiro bilan juftlikda ishlatilganda, Toshiro'ga biroz ucr statlari kerak boʻladi, lekin Szayel core'ni maksimal duplikatlash bu muammoni hal qiladi."
