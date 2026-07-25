@@ -94,6 +94,11 @@ def main():
     flask_thread.start()
     logger.info("Flask health-check server ishga tushdi.")
 
+    # Asosiy thread uchun event loop yaratamiz
+    import asyncio
+    loop = asyncio.new_event_loop()
+    asyncio.set_event_loop(loop)
+
     # Telegram botni polling bilan ishga tushiramiz
     application = ApplicationBuilder().token(BOT_TOKEN).build()
     register_handlers(application)
